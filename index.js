@@ -111,12 +111,13 @@ instance.prototype.actions = function(system) {
 					choices: [
 						{ id: '13', label: 'HDMI 1' },
 						{ id: '14', label: 'HDMI 2' },
-						{ id: '10', label: 'HDMI 3' },
-						{ id: '15', label: 'HDMI 4' },
+						{ id: '15', label: 'COMP' },
 						{ id: '11', label: 'PC 1' },
 						{ id: '12', label: 'PC 2' },
-						{ id: '9', label: 'CV' },
-						{ id: '16', label: 'DP' }
+						{ id: '9', label: 'CV1' },
+						{ id: '10', label: 'CV2' },
+						{ id: '16', label: 'DP' },
+						{ id: '16', label: 'SDI' },
 					]
 				}
 			]
