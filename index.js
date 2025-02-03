@@ -117,7 +117,7 @@ instance.prototype.actions = function(system) {
 						{ id: '9', label: 'CV1' },
 						{ id: '10', label: 'CV2' },
 						{ id: '16', label: 'DP' },
-						{ id: '16', label: 'SDI' },
+						{ id: '17', label: 'SDI' },
 					]
 				}
 			]
