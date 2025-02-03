@@ -1,3 +1,3 @@
-# companion-module-kramer-vp773a
+# companion-module-kramer-vp771
 
 See HELP.md and LICENSE
